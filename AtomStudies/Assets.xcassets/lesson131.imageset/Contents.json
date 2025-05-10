@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "Colour_18-col_PT_with_labels.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "Colour_18-col_PT_with_labels 1.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "Colour_18-col_PT_with_labels 2.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
